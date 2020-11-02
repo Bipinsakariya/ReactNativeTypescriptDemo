@@ -1,0 +1,6 @@
+module Pods_HStory_HStoryTests {
+  umbrella header "Pods-HStory-HStoryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

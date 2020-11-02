@@ -1,0 +1,6 @@
+module Pods_HStory {
+  umbrella header "Pods-HStory-umbrella.h"
+
+  export *
+  module * { export * }
+}
