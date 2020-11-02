@@ -1,8 +1,8 @@
 # ReactNativeTypescriptDemo
-Clone the Project:
+# Clone the Project:
 
 URL: https://github.com/Bipinsakariya/ReactNativeTypescriptDemo.git
-Installation steps:
+# Installation steps:
 Go to Project directory.
 npm install
 Android:
@@ -11,7 +11,7 @@ iOS:
 cd ios/pod install
 cd ..
 react-native run-ios
-Library changes
+# Library changes
 => Some 3rd party library needs changes in order to work as expected.
 
 Go to node_modules/react-native-cn-richtext-editor/src/html
@@ -40,14 +40,15 @@ margin: 8px 0px 8px 0px;
 }
 //
 
-Prerequisites:
+# Prerequisites:
 Node > 7 and npm (Recommended: Use npm)
 Watchman brew install watchman
 React Native CLI npm install -g react-native-cli
 XCode > 11
 JDK > 8
 Android Studio and Android SDK
-Folder structure:
+
+# Folder structure:
 This template follows a very simple project structure:
 
 src: This folder is the main container of all the code inside your application.
