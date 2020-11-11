@@ -23,11 +23,7 @@ URL: https://github.com/Bipinsakariya/ReactNativeTypescriptDemo.git
 
 ## Folder structure: 
 This template follows a very simple project structure:
-- `src`: This folder is the main container of all the code inside your application.
-- `redux`: This folder contains all redux files[actions,reducers]. 
-   - `actions`: This folder contains all actions that can be dispatched to redux.
-   - `reducers`: This folder should have all your reducers.
-		
+- `src`: This folder is the main container of all the code inside your application.	
 - `components`: Folder that contains all your application components.
 - `constants`:  Folder that contains all your application constants like API’s , user fields.
 - `Navigation`: Folder that contains AuthNavigator and TabNavigator.
